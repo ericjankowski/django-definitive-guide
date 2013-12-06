@@ -5,7 +5,3 @@ Chapter 4
 codde - "We save the raw text of our template into the variable raw_template. Note that we use triple quote marks to designate the string, because it wraps over multiple lines; in Python codde, strings designated with single quote
 marks cannot be wrapped over multiple lines."
 
-{% block footer %}
-<hr>
-<p>Thanks for visiting my site.</p>
-{% endblock %}
